@@ -1,1 +1,0 @@
- /Users/oleksandr/Development/Wallet/wallet/.dart_tool/flutter_build/1f994174b731cf5195640664400efd5c/native_assets.json: 

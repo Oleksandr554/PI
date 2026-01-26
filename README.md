@@ -10,8 +10,8 @@ Projekt powstał jako odpowiedź na problem zbyt skomplikowanych narzędzi do bu
 
 ## Zespół
 - **Oleksandr Rozheliuk**
-- **Jakub Zasadda**
-- **Magdalena Kczmarczyk**
+- **Jakub Zasada**
+- **Magdalena Kaczmarczyk**
 
 ---
 

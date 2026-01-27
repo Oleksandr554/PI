@@ -33,7 +33,6 @@ Istniejące aplikacje finansowe są często zbyt rozbudowane, wymagają wiedzy f
 - motywację do oszczędzania,
 - tylko niezbędne funkcje — bez zbędnych dodatków.
 
-> „Dodaj wydatek w kilka sekund i od razu zobacz jego wpływ na Twój budżet.”
 
 ---
 

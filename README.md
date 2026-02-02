@@ -9,7 +9,7 @@
 
 **Design i Stylistyka**
 
-Aplikacja została zaprojektowana w stylu minimalistycznym z wykorzystaniem łagodnej, pastelowej palety barw. Główne cechy wizualne:
-Zaokrąglone elementy interfejsu (soft UI) nadające nowoczesny wygląd.
-Wysoki kontrast typografii dla lepszej czytelności.
-Intuicyjna nawigacja oparta na dolnym pasku menu (Bottom Navigation Bar).
+- Aplikacja została zaprojektowana w stylu minimalistycznym z wykorzystaniem łagodnej, pastelowej palety barw. Główne cechy wizualne:
+- Zaokrąglone elementy interfejsu (soft UI) nadające nowoczesny wygląd.
+- Wysoki kontrast typografii dla lepszej czytelności.
+- Intuicyjna nawigacja oparta na dolnym pasku menu (Bottom Navigation Bar).
